@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|d:\\asp.net\\ontapcuoiky\\oncuoiky\\oncuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\management\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\management\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\management\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\management\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.Net\\OnTapCuoiKy\\Test\\Test\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\management\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\management\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\management\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\management\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\login\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\views\\management\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\views\\management\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\oncuoiky\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477A97E5-E4E3-4B8D-8006-B76EF54B1336}|OnCuoiKy\\OnCuoiKy.csproj|solutionrelative:oncuoiky\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:03:08.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryMenu.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\CategoryMenu.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Management\\CategoryMenu.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\CategoryMenu.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Management\\CategoryMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T07:55:13.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "OnCuoiKy\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA+wC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:19:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnCuoiKy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:25:35.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:27:59.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:40:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Management\\Create.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Create.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Management\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:48:11.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Management\\Index.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Index.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Management\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T06:14:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\ManagementController.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Controllers\\ManagementController.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Controllers\\ManagementController.cs",
+              "RelativeToolTip": "OnCuoiKy\\Controllers\\ManagementController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:40:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Models\\Nhanvien.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Nhanvien.cs",
+              "RelativeToolTip": "OnCuoiKy\\Models\\Nhanvien.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:44:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HienThiTheoPhong.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\HienThiTheoPhong.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Management\\HienThiTheoPhong.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\HienThiTheoPhong.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Management\\HienThiTheoPhong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:14:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:23:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Login\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Edit.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Login\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:23:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Login\\Create.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Login\\Create.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Login\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:21:49.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:56:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "OnCuoiKy\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:40:26.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Phongban.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Phongban.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Models\\Phongban.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Phongban.cs",
+              "RelativeToolTip": "OnCuoiKy\\Models\\Phongban.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:59:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Views\\Management\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Views\\Management\\Edit.cshtml",
+              "RelativeToolTip": "OnCuoiKy\\Views\\Management\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T06:18:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "OnCuoiKy\\Models\\Model1.cs",
+              "ToolTip": "D:\\ASP.Net\\OnTapCuoiKy\\OnCuoiKy\\OnCuoiKy\\Models\\Model1.cs",
+              "RelativeToolTip": "OnCuoiKy\\Models\\Model1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:38:04.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
